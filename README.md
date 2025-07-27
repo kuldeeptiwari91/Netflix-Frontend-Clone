@@ -31,15 +31,16 @@ A responsive clone of Netflix India’s homepage built using **HTML**, **CSS**, 
 
 ## 📂 Folder Structure
 
-Netflix Frontend Clone/
+Netflix-Frontend-Clone/
 ├── assets/
-│ ├── images/
-│ ├── icons/
-│ └── videos/
-├── index.html
-├── style.css
-├── script.js
-└── favicon.icon
+│   ├── images/        # All image assets
+│   ├── icons/         # SVGs or icon images
+│   └── videos/        # Video files 
+├── index.html         # Main HTML file
+├── style.css          # Styling and responsive layout
+├── script.js          # JS for FAQ toggle and interactions
+└── favicon.icon       # Browser tab icon
+
 
 ---
 
