@@ -30,6 +30,7 @@ A responsive clone of Netflix India’s homepage built using **HTML**, **CSS**, 
 ---
 
 ## 📂 Folder Structure
+
 Netflix Frontend Clone/
 ├── assets/
 │ ├── images/
@@ -40,12 +41,16 @@ Netflix Frontend Clone/
 ├── script.js
 └── favicon.icon
 
+---
+
 ## 📦 Installation
 
 ```bash
 git clone https://github.com/yourusername/netflix-frontend-clone.git
 cd netflix-frontend-clone
 open index.html in browser
+
+---
 
 📄 License
 This is a frontend clone for educational/demo purposes. All assets and branding belong to Netflix, Inc.
