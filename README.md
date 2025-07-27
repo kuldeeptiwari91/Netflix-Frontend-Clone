@@ -41,27 +41,26 @@ Netflix-Frontend-Clone/
 ├── style.css
 ├── script.js
 └── favicon.icon
+```
 
 ---
 
 ## 📦 Installation
-
 To run this project locally:
 
 ```bash
-git clone https://github.com/kui91/Netflix-Frontend-Clone.git
-cd Netflix-Frontend-Clone
-# Open the project in your browser
-open index.html
+git clone https://github.com/kuldeeptiwari91/Netflix-Frontend-Clone.git
+cd netflix-frontend-clone
+open index.html in browser
+```
 
 ---
 
 ## 📄 License
 
-This project is intended for educational and demo purposes only.  
-All trademarks, logos, and assets used belong to **Netflix, Inc.**  
-No copyright infringement intended.
-
+```plaintext
+This is a frontend clone for educational/demo purposes. All assets and branding belong to Netflix, Inc.
+```
 ---
 
 Made with ❤️ by [Kuldeep Tiwari](https://github.com/kuldeeptiwari91)
