@@ -1,56 +1,53 @@
-## 🧰 Tech Stack
+# 🎬 Netflix Frontend Clone
 
-- ✅ **HTML5**
-- ✅ **CSS3** 
-- ✅ **JavaScript** 
-- ✅ **Google Fonts** 
-- ✅ **GitHub Pages**
+A responsive clone of Netflix India’s homepage built using **HTML**, **CSS**, and **JavaScript**. Features modern layout techniques, embedded videos, and interactive FAQ accordion—all styled to match Netflix's branding.
 
 ---
 
-## 🎨 Features
+## 🚀 Live Demo
 
-- 💻 Fully **responsive layout** (mobile, tablet, desktop)
-- 📺 Hero section with **background image and text overlays**
-- 🔊 Embedded **video playback inside device frames**
-- 📦 Clean, semantic HTML and well-structured CSS
-- 📩 Email input with “Get Started” call-to-action
-- ❓ **FAQ accordion** with smooth toggle behavior
-- 🌙 Dark theme design matching Netflix’s branding
-- 🎯 Interactive and accessible elements
+👉 [View Site](https://kuldeeptiwari91.github.io/Netflix-Frontend-Clone/)  
 
 ---
 
-## 📱 Responsive Design
+## 🛠️ Tech Stack
 
-Designed to look great on:
-- Desktop (≥1300px)
-- Tablets
-- Mobile devices
-
-Uses flexible layouts and `media queries` to ensure content adapts to screen size.
+- HTML5, CSS3, JavaScript
+- CSS **Flexbox**, **Grid**, and **Media Queries**
+- Google Fonts (Poppins, Martel Sans)
+- GitHub Pages (for deployment)
 
 ---
 
-## 🧠 What I Learned
+## 📱 Features
 
-- How to structure and build a **responsive landing page** from scratch
-- Layering video and image assets using **absolute/relative positioning**
-- Creating an **interactive accordion** with vanilla JavaScript
-- Leveraging **media queries** for layout adjustments
-- Hosting and deploying with **GitHub Pages**
+- ✅ Fully **responsive** for desktop, tablet & mobile
+- ✅ Hero section with background image & call-to-action
+- ✅ Embedded **videos inside device mockups**
+- ✅ Interactive **FAQ accordion**
+- ✅ Clean, semantic HTML and modular CSS
 
+---
 
-## 🛠️ Setup Instructions
+## 📂 Folder Structure
+Netflix Frontend Clone/
+├── assets/
+│ ├── images/
+│ ├── icons/
+│ └── videos/
+├── index.html
+├── style.css
+├── script.js
+└── favicon.icon
 
-To run the project locally:
+## 📦 Installation
 
 ```bash
-1. Clone the repo:
-   git clone https://github.com/kuldeeptiwari91/Netflix-Frontend-Clone.git
+git clone https://github.com/yourusername/netflix-frontend-clone.git
+cd netflix-frontend-clone
+open index.html in browser
 
-2. Navigate into the folder:
-   cd netflix-frontend-clone
+📄 License
+This is a frontend clone for educational/demo purposes. All assets and branding belong to Netflix, Inc.
 
-3. Open `index.html` in your browser:
-   Double-click or use a live server in your code editor.
+Made with ❤️ by Kuldeep Tiwari
