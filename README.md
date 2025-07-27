@@ -1,10 +1,10 @@
 ## 🧰 Tech Stack
 
 - ✅ **HTML5**
-- ✅ **CSS3** (Flexbox, Grid, Media Queries)
-- ✅ **JavaScript** (Vanilla)
-- ✅ **Google Fonts** (Poppins, Martel Sans)
-- ✅ **GitHub Pages** (for hosting)
+- ✅ **CSS3** 
+- ✅ **JavaScript** 
+- ✅ **Google Fonts** 
+- ✅ **GitHub Pages**
 
 ---
 
@@ -47,7 +47,7 @@ To run the project locally:
 
 ```bash
 1. Clone the repo:
-   git clone https://github.com/yourusername/netflix-frontend-clone.git
+   git clone https://github.com/kuldeeptiwari91/Netflix-Frontend-Clone.git
 
 2. Navigate into the folder:
    cd netflix-frontend-clone
