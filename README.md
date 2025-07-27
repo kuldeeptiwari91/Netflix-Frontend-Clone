@@ -6,7 +6,7 @@ A responsive clone of Netflix India’s homepage built using **HTML**, **CSS**, 
 
 ## 🚀 Live Demo
 
-👉 [View Site](https://kui91.github.io/Netflix-Frontend-Clone/)  
+👉 [View Site](https://kuldeeptiwari91.github.io/Netflix-Frontend-Clone/)  
 
 ---
 
@@ -42,3 +42,22 @@ Netflix-Frontend-Clone/
 ├── script.js
 └── favicon.icon
 
+## 📦 Installation
+
+To run this project locally:
+
+```bash
+git clone https://github.com/kui91/Netflix-Frontend-Clone.git
+cd Netflix-Frontend-Clone
+# Open the project in your browser
+open index.html
+
+## 📄 License
+
+This project is intended for educational and demo purposes only.  
+All trademarks, logos, and assets used belong to **Netflix, Inc.**  
+No copyright infringement intended.
+
+---
+
+Made with ❤️ by [Kuldeep Tiwari](https://github.com/kuldeeptiwari91)
