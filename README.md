@@ -42,6 +42,8 @@ Netflix-Frontend-Clone/
 ├── script.js
 └── favicon.icon
 
+---
+
 ## 📦 Installation
 
 To run this project locally:
@@ -51,6 +53,8 @@ git clone https://github.com/kui91/Netflix-Frontend-Clone.git
 cd Netflix-Frontend-Clone
 # Open the project in your browser
 open index.html
+
+---
 
 ## 📄 License
 
